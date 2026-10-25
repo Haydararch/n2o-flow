@@ -1,0 +1,8 @@
+streamlit>=1.50
+CoolProp>=6.6
+thermo>=0.4
+ht>=1.0
+numpy
+scipy
+pandas
+altair
